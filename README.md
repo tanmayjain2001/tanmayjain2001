@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanmayjain
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ...Data analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tanmayj797@gmail.com
 
 <!---
